@@ -6,7 +6,7 @@ import './Email.css';
 function Email() {
     return (
       <div className="Email">
-        <img src={email} alt=''/>
+        <button><img src={email} alt='' /></button>
       </div>
     );
   }
