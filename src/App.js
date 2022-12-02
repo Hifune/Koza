@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from './HEADER/Header';
 import Promo from './PROMO/Promo';
-import Text from './PROMO/Text'
+import Fon from './PROMO/Fon';
 import './App.css';
 
 function App() {
@@ -9,7 +9,9 @@ function App() {
     <div className="App">
       <Header/>
       <Promo/>
-      <Text/>
+      <Fon/>
+      
+
       
     </div>
   );

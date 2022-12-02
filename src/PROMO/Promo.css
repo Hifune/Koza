@@ -1,8 +1,12 @@
-.Promo {
-    width: 497px;
-    height: 559px;
-    float: right;
-    margin-top: 0px;
-    margin-right: 150px;
+.Pot{
+
+    width: 300px;
+    height: 100%;
+    align-items: center;
+    padding-left: 2000px;
+    padding-top: 80px;
 }
 
+#fon{
+    background-color: rgb(195, 5, 127);
+}
