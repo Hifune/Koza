@@ -1,0 +1,14 @@
+.ButtonPing {
+    width: 210px;
+    height: 51px;
+    background-color: rgb(198, 5, 127);
+    border: none;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 50px;
+    margin-left: 1100px;
+    border-radius: 5px 5px 5px 5px; 
+}
